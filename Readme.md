@@ -8,14 +8,9 @@
 - Subjects
 - Type Erase
 ## Section 2 - Transforming Operators
-- collect
-- map
-- mapKeypath
-- flatMap
-- replaceNil (with extra unwrapping)
-- replaceEmpty
-- scan
+- collect, map, mapKeypath, flatMap, replaceNil (with extra unwrapping), replaceEmpty, scan
 ## Section 3 - Filtering Operators
+- filter, removeDuplicates, compactMap, ignoreOutput, first, last, dropFirst, dropWhile, dropUntilOutputFrom, prefix, Challenge
 ## Section 4 - Combining Operators
 ## Section 5 - Sequence Operators
 ## Section 6 - Combine for Networking
