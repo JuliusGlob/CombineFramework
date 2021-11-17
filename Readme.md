@@ -8,6 +8,13 @@
 - Subjects
 - Type Erase
 ## Section 2 - Transforming Operators
+- collect
+- map
+- mapKeypath
+- flatMap
+- replaceNil (with extra unwrapping)
+- replaceEmpty
+- scan
 ## Section 3 - Filtering Operators
 ## Section 4 - Combining Operators
 ## Section 5 - Sequence Operators
