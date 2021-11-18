@@ -24,6 +24,8 @@
 ## Section 8 - Combine Timers
 - RunLoop, Timer class, DispathQueue
 ## Section 9 - Resources in Combine
+- share
+- multicast
 ## Section 10 - Integrating Combine with UIKit
 ## Section 11 - MVVM Design Pattern
 ## Section 12 - SwiftUI Basics
