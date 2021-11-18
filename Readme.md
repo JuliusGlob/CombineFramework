@@ -22,6 +22,7 @@
 - Debbuging Combine (print Operator)
 - Debugging throught XCode Debugger
 ## Section 8 - Combine Timers
+- RunLoop, Timer class, DispathQueue
 ## Section 9 - Resources in Combine
 ## Section 10 - Integrating Combine with UIKit
 ## Section 11 - MVVM Design Pattern
