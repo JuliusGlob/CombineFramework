@@ -14,6 +14,7 @@
 ## Section 4 - Combining Operators
 - prepend, append, switchToLatest, merge, combineLatest, zip
 ## Section 5 - Sequence Operators
+- minMax, firstLast, output, count, contains, allSatisfy, reduce
 ## Section 6 - Combine for Networking
 ## Section 7 - Debugging Combine
 ## Section 8 - Combine Timers
