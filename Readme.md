@@ -26,8 +26,7 @@
 ## Section 9 - Resources in Combine
 - share
 - multicast
-## Section 10 - Integrating Combine with UIKit
+## Section 10 - Integrating Combine with UIKit (Practical Exercise)
 ## Section 11 - MVVM Design Pattern
-## Section 12 - SwiftUI Basics
-## Section 13 - State and Binding
-## Section 14 - SwiftUI , Combine and Web API (Practical Exercise)
+## Section 12 - State and Binding
+## Section 13 - SwiftUI , Combine and Web API (Practical Exercise)
