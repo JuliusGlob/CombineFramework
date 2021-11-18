@@ -16,6 +16,8 @@
 ## Section 5 - Sequence Operators
 - minMax, firstLast, output, count, contains, allSatisfy, reduce
 ## Section 6 - Combine for Networking
+- URLSession extensions and Codable support
+- Displaying posts on a TableView
 ## Section 7 - Debugging Combine
 ## Section 8 - Combine Timers
 ## Section 9 - Resources in Combine
