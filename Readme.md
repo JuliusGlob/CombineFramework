@@ -19,6 +19,8 @@
 - URLSession extensions and Codable support
 - Displaying posts on a TableView
 ## Section 7 - Debugging Combine
+- Debbuging Combine (print Operator)
+- Debugging throught XCode Debugger
 ## Section 8 - Combine Timers
 ## Section 9 - Resources in Combine
 ## Section 10 - Integrating Combine with UIKit
