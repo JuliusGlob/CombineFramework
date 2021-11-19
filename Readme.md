@@ -29,4 +29,8 @@
 ## Section 10 - Integrating Combine with UIKit
 - Webservice, responsive UI, debounce. (you need an openweather apikey)
 ## Section 12 - State and Binding
+- Overview
+- HelloBinding
+- HelloState
+- Observable & Environment Objects
 ## Section 13 - SwiftUI , Combine and Web API (Practical Exercise)
