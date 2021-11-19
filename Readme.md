@@ -28,6 +28,5 @@
 - multicast
 ## Section 10 - Integrating Combine with UIKit
 - Webservice, responsive UI, debounce. (you need an openweather apikey)
-## Section 11 - MVVM Design Pattern
 ## Section 12 - State and Binding
 ## Section 13 - SwiftUI , Combine and Web API (Practical Exercise)
