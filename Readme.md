@@ -1,6 +1,6 @@
 ## Combine Framework List of Topics
 
-## This is the starting idea of the Repository, it will likely be modified as some of this stuff is too basic
+Welcome, every section in this repo contains a collection of exercises demonstrating combine's utilization as well as a light overview on what every topic is about you can find those withing the readmes of each section.
 
 ## Section 1 - Publishers, Subscribers and Operators
 - PublishersAndSubscribersBasic
