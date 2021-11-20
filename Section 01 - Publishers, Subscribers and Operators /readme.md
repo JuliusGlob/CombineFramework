@@ -24,3 +24,9 @@ It can be used to "inject" values into a stream this can be useful for adapting 
 ## Type Eraser
 It is a way to hide an object's real type An example of where this is useful would be implementing the generic types available AnyCancellable and AnyPublisher. This allows us to implement the .eraseToAnyPublisher() operator, which will allow us to adjust the implementation as needed so callers of that publisher wont need to care about what publisher is used under the hood.
 This topic goes on and on: https://www.donnywals.com/understanding-type-erasure-in-swift/
+
+Exercises in section: (by suggested order) 
+- PublishersAndSubscribersBasic
+- ImplementingSubscriber
+- Subjects
+- Type Erase
