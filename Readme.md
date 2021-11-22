@@ -28,9 +28,10 @@ Welcome, every section in this repo contains a collection of exercises demonstra
 - multicast
 ## Section 10 - Integrating Combine with UIKit
 - Webservice, responsive UI, debounce. (you need an openweather apikey)
-## Section 12 - State and Binding
+## Section 11 - State and Binding
 - Overview
 - HelloBinding
 - HelloState
 - Observable & Environment Objects
-## Section 13 - SwiftUI , Combine and Web API (Practical Exercise)
+## Section 12 - SwiftUI , Combine and Web API (Practical Exercise)
+- Practical example with webservices, passing data between views
